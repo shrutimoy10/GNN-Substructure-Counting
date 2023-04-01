@@ -29,6 +29,9 @@ Note that
 [3] https://github.com/rusty1s/pytorch_sparse
 ```
 
+## For CUDA Error 34 : Refer to https://discuss.pytorch.org/t/runtimeerror-unexpected-error-from-cudagetdevicecount/139977/4
+
+
 ## For citation
 ```
 @article{chen2020can,
